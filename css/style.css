@@ -1,0 +1,66 @@
+body {
+  background-image: url(" ");
+  background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+  background-color: #B1B1B1;
+}
+
+#portfolio {
+  background: rgba(255, 255, 255, 25.55);
+}
+
+
+.navbar {
+    margin-bottom: 0;
+    background-color: #5d839e;
+    z-index: 9999;
+    border: 0;
+    font-size: 14px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 4px;
+    border-radius: 0;
+}
+
+.navbar li a, .navbar .navbar-brand {
+    color: #fff !important;
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #5d839e !important;
+    background-color: #fff !important;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: #fff !important;
+}
+
+#about { 
+  margin-top: 80px;
+}
+
+#pic {
+  width: 200px;
+   height: auto;
+}
+.devicon {
+  width: 200% auto;
+} 
+
+/* .pic1 {
+    width: 400px;
+    height: 250px; */
+      
+  }
+hr {
+  border-color:#B1B1B1;
+  border-style: solid none;
+  border-width: 1px 0;
+  margin: 30px 0;
+}
+
+.logo {
+  width:50%; 
+    height: auto;
+}
